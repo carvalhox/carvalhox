@@ -10,5 +10,5 @@
 <p align="center" style="display: flex; align-items: center; justify-content: space-around">
   <img width=530 src="https://github-readme-stats.vercel.app/api?username=carvalhox&theme=blueberry&show_icons=true" />
  
-  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=carvalhox&show_icons=true&theme=blueberry&hide_border=true&cache_seconds=1800&locale=en" />
+  <img width=305 src="https://github-readme-stats.vercel.app/api/top-langs?username=carvalhox&show_icons=true&theme=blueberry&hide_border=true&cache_seconds=1800&locale=en" />
 </p>
