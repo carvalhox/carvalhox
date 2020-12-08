@@ -1,12 +1,9 @@
 ### Hey, there! :wave:
 
-:books: I'm an Information Systems student at <a href="https://portal.estacio.br/">Estácio</a>.
-
-:computer: I'm currently studying: HTML | CSS | JavaScript
-
-:pushpin: My goal is to get a job as a Front-end Developer Jr.
-
-:speech_balloon: You can contact me at: [LinkedIn](https://www.linkedin.com/in/carvalhox) | [Discord](https://discordapp.com/users/429853298644746253) 
+- :books: I'm an Information Systems student at <a href="https://portal.estacio.br/">Estácio</a>.
+- :computer: I'm currently studying: HTML | CSS | JavaScript
+- :pushpin: My goal is to get a job as a Front-end Developer Jr.
+- :speech_balloon: You can contact me at: [LinkedIn](https://www.linkedin.com/in/carvalhox) | [Discord](https://discordapp.com/users/429853298644746253) 
 
 <p align="center" style="display: flex; align-items: center; justify-content: space-around">
   <img width=530 src="https://github-readme-stats.vercel.app/api?username=carvalhox&theme=blueberry&show_icons=true" />
