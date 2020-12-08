@@ -8,5 +8,8 @@
 
 :speech_balloon: You can contact me at: [LinkedIn](https://www.linkedin.com/in/carvalhox) | [Discord](https://discordapp.com/users/429853298644746253) 
 
-<br/><p align="center">[![Carvalho's github stats](https://github-readme-stats.vercel.app/api?username=carvalhox&count_private=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhox&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p align="center" style="display: flex; align-items: center; justify-content: space-around">
+  <img width=530 src="https://github-readme-stats.vercel.app/api?username=carvalhox&theme=blueberry&show_icons=true" />
+ 
+  <img width=310 src="https://github-readme-stats.vercel.app/api/top-langs?username=carvalhox&show_icons=true&theme=blueberry&hide_border=true&cache_seconds=1800&locale=en" />
+</p>
