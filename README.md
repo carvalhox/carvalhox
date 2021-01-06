@@ -13,6 +13,9 @@
 </p>
 <hr>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carvalhox&theme=blueberry&show_icons=true" />
-</p>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carvalhox&show_icons=true&line_height=27&count_private=true&theme=react" alt="carvalhox's GitHub Stats" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhox&theme=react" />
+</a>
