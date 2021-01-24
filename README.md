@@ -8,7 +8,7 @@
   📚 Studying: <strong>HTML, CSS and Javascript.</strong>
 </p>
 <p align="left">
-  💼 Tools: <strong>VSCode, Notion, Netlify, Git & GitHub, Figma.</strong>
+  💼 Tools: <strong>Visual Studio Code, Notion, Netlify, Git & GitHub, Figma.</strong>
 </p>
 <p align="left">
   💌 I'm always open to talk about anything, feel free to contact me: 
