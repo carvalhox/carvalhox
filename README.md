@@ -2,17 +2,14 @@
 
 <p align="left"> 
   Hey, there! I'm an undergrad Information Systems student pursuing my dream to get my first job as a <strong>Front-end Developer</strong>. I'm passionate about technology in general and i'm currently studying every day in order to achieve my goal.
-  
 </p>
 
 <p align="left">
   📚 Studying: <strong>HTML, CSS and Javascript.</strong>
 </p>
-
 <p align="left">
   💼 Tools: <strong>VSCode, Notion, Netlify, Git & GitHub, Figma.</strong>
 </p>
-
 <p align="left">
   💌 I'm always open to talk about anything, feel free to contact me: 
 </p>
@@ -27,8 +24,6 @@
   <a href="mailto:carvalhocodes@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>  
-
-<hr>
 
 [![Carvalho's github stats](https://github-readme-stats.vercel.app/api?username=laporeon&show_icons=true&line_height=27&count_private=true&theme=nord)](https://github.com/laporeon/github-readme-stats)
 
