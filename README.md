@@ -18,9 +18,6 @@
   <a href="https://www.linkedin.com/in/carvalhox" alt="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 
-  <a href="https://discordapp.com/users/429853298644746253" alt="Discord">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
-
   <a href="mailto:carvalhocodes@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>  
