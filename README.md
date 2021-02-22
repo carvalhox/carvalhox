@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Hey, there! I'm an undergrad Information Systems student pursuing my dream to get my first job as a <strong>Front-end Developer</strong>. I'm passionate about technology in general and i'm currently studying every day in order to achieve my goal.
+  Hey, there! I'm an undergrad Information Systems student pursuing my dream to get my first job as a <strong>Front-end Developer</strong>. I'm passionate about technology in general.
 </p>
 
 <p align="left">
