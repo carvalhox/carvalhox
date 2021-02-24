@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Hey, there! I'm an undergrad Information Systems student pursuing my dream to get my first job as a <strong>Front-end Developer</strong>. I'm passionate about technology in general.
+  Hey, there! I'm an undergrad Information Systems student, a tech enthusiast and a <strong>Front-end Developer</strong> in the making. 
 </p>
 
 <p align="left">
-  📚 Studying: <strong>HTML, CSS and Javascript.</strong>
+  📚 Currently studying: <strong>Javascript at <a href="https://www.origamid.com/">Origamid</a>.</strong>
 </p>
 <p align="left">
-  💼 Tools: <strong>VSCode, Notion, Netlify, Git & GitHub, Figma.</strong>
+  💼 Tools: <strong>VSCode, Notion, Figma.</strong>
 </p>
 <p align="left">
   💌 I'm always open to talk about anything, feel free to contact me: 
