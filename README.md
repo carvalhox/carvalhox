@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://user-images.githubusercontent.com/34722707/109333299-0c9f3d00-783e-11eb-9f16-c97a41796381.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Hey, there! I'm an undergrad Information Systems student, a tech enthusiast and a <strong>Front-end Developer</strong> in the making. 
