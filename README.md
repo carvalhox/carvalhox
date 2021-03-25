@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  📚 Currently studying: <strong>Javascript at <a href="https://www.origamid.com/">Origamid</a>.</strong>
+  📚 Currently studying: <strong>Javascript</strong>.
 </p>
 <p align="left">
   💼 Tools: <strong>VSCode, Notion, Figma.</strong>
